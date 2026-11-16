@@ -2,6 +2,8 @@
 
 A role-based **Emergency Ambulance Dispatch & Fleet Management** web application built for **CSE370 (Database Systems)**. The project models a normalized **3NF MySQL/MariaDB** database using **Option 8A (disjoint-total) EER specialization**, backed by a **PHP + MySQLi** transactional web application for **Patients**, **Drivers**, and **Administrators**.
 
+> **Live Website:** [http://uber-for-ambulance.infinityfree.io/](http://uber-for-ambulance.infinityfree.io/)
+
 ---
 
 ## Database Design & Diagrams
