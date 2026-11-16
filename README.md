@@ -90,9 +90,9 @@ Cse370 Project - Uber for Ambulance/
 
 | Role | User ID | Username | Default Password |
 | :--- | :--- | :--- | :--- |
-| **Patient** | `PT-101` *(also `PT-102`, `PT-103`)* | `ariana_chowdhury` *(or `nabil_hasan`, `sadia_khan`)* | `<DEFAULT_PATIENT_PASSWORD>` |
-| **Driver** | `DR-201` *(also `DR-202`, `DR-203`)* | `rafi_ahmed` *(or `tania_sultana`, `imran_hossain`)* | `<DEFAULT_DRIVER_PASSWORD>` |
-| **Admin** | `AD-901` | `maya_rahman` | `<DEFAULT_ADMIN_PASSWORD>` |
+| **Patient** | `PT-101` *(also `PT-102`, `PT-103`)* | `ariana_chowdhury` *(or `nabil_hasan`, `sadia_khan`)* | `patient123` |
+| **Driver** | `DR-201` *(also `DR-202`, `DR-203`)* | `rafi_ahmed` *(or `tania_sultana`, `imran_hossain`)* | `driver123` |
+| **Admin** | `AD-901` | `maya_rahman` | `admin123` |
 
 ---
 
